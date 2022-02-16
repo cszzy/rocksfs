@@ -1,0 +1,10 @@
+build/
+bin/
+.vscode/
+thirdparty/eRPC/build/
+thirdparty/eRPC/bin/
+thirdparty/eRPC/CMakeFiles/
+thirdparty/metakv/build/
+thirdparty/metakv/bin/
+*.[oa]
+*.so

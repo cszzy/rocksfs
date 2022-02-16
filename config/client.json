@@ -1,0 +1,13 @@
+{
+    "client_threads": 1,
+    "local_ip": "192.168.1.22",
+    "num_servers": 1,
+    "server_list": [
+        "192.168.1.22:31851"
+    ],
+    "server_fg_threads": 2,
+    "server_bg_threads": 0,
+    "mount_dir" : "/tmp/metafs",
+    "memcached_ip": "localhost",
+    "memcached_port": 11211
+}

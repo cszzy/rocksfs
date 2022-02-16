@@ -1,0 +1,15 @@
+{
+    "local_ip": "192.168.1.22",
+    "local_port": 31851,
+    "num_servers": 1,
+    "server_list": [
+        "192.168.1.22:31851"
+    ],
+    "server_fg_threads": 2,
+    "server_bg_threads": 0,
+    "metakv_pm_space" : 8,
+    "metakv_path": "/mnt/pmem01/",
+    "rocksdb_path": "/tmp/",
+    "memcached_ip": "localhost",
+    "memcached_port": 11211
+}
